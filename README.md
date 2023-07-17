@@ -9,7 +9,7 @@ class WebDeveloper:
 
     def __init__(self):
         self.name = "Jack"
-        self.role = "Back-end Web Developer"
+        self.role = "Web Developer"
         self.language_spoken = ["ru_RU", "en_US"]
 
     def say_hi(self):
@@ -32,6 +32,7 @@ me.say_hi()
 ### :lotus_position_man: Where I spend my free time
 - [LeetCode](https://leetcode.com/savagecode/)
 - [Stepik](https://stepik.org/users/560520563/profile)
+- [Duolingo](https://ru.duolingo.com/profile/MF7X17)
 
 <!---
 [![SavageCode LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=savagecode&theme=dark)](https://github.com/sava9ecode/github-readme)
