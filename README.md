@@ -5,18 +5,18 @@
 # -*- coding: utf-8 -*-
 
 
-class WebDeveloper:
+class BackendDeveloper:
 
     def __init__(self):
         self.name = "Jack"
-        self.role = "Web Developer"
+        self.role = "Back-end Developer"
         self.language_spoken = ["ru_RU", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = WebDeveloper()
+me = BackendDeveloper()
 me.say_hi()
 ```
 
@@ -31,6 +31,7 @@ me.say_hi()
   
 ### :lotus_position_man: Where I spend my free time
 - [LeetCode](https://leetcode.com/savagecode/)
+- [Codewars](https://www.codewars.com/users/sava9ecode)
 - [Stepik](https://stepik.org/users/560520563/profile)
 - [Duolingo](https://ru.duolingo.com/profile/MF7X17)
 
